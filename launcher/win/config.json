@@ -1,7 +1,7 @@
 {
-    "launcher_project_id": "8c91ecf3-e7b0-46a8-aaf7-4c419ef8ef4b",
-    "login_project_id": "bd2e1104-5494-48f9-ac50-98f230062df1",
-    "redirect_url": "https://xsolla.com",
+    "launcher_project_id": "7de3d282-31b2-4985-9fd7-cccfcf4db44a",
+    "login_project_id": "20c2f43a-dd13-11e8-b036-42010aa80004",
+    "redirect_url": "https://daantje1.github.io/croploggedin",
     "stone_app_id": "",
     "steam_app_id": "480",
     "playfab_project_id" : "FB8D",
@@ -9,9 +9,9 @@
     "store_token_life_time": 23,
     "check_update_interval": 10800000,
     "GA_trackingId": "UA-117660045-1",
-    "product_name": "Xsolla_launcher",
-    "link_support":      "https://xsolla.com",
-    "link_community":    "https://xsolla.com",
+    "product_name": "CropCraft Launcher",
+    "link_support":      "https://eschenkel123.wixsite.com/support",
+    "link_community":    "https://eschenkel123.wixsite.com/support/forum/community",
     "build_number": 0,
     "enable_home_page": false,
     "home_page_res_link": "https://s3.amazonaws.com/launcher-stuff/PromoPage/build_1_6_27_290.7z"
